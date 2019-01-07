@@ -8,5 +8,6 @@ int main()
     printf("you");
     printf("are");
     printf("a");
+    printf("idiot");
     return 0;
 }
