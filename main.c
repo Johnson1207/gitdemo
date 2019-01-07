@@ -9,5 +9,6 @@ int main()
     printf("are");
     printf("a");
     printf("idiot");
+    printf("!!!!");
     return 0;
 }
